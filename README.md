@@ -1,2 +1,3 @@
 # tvcom
-Placeholder repo for the tvcom project
+
+Placeholder package. The `tvcom` name is reserved for a future project.
